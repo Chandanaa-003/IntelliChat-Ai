@@ -240,3 +240,5 @@ Test Suites:
 3. **CORS Hardening**: Strict origin whitelisting via `.env`.
 4. **Context Window Protection**: Automatic sliding window truncates older turns to avoid context overflow.
 5. **Robust Non-blocking SSE**: Streaming responses run asynchronously without blocking worker threads.
+
+##app link:https://intelli-chat-ai-five.vercel.app/
